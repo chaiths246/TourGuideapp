@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SanFrancisco</string>
+    <string name="rest">Restaurant</string>
+    <string name="attr">Attractions</string>
+    <string name="beaches">Beaches</string>
+    <string name="itcomp">IT-Companies</string>
+
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_Attraction">Attractions</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_Beaches">Beaches</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_Restaurant">Restaurants</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_IT">IT-Companies</string>
+</resources>
